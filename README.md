@@ -23,7 +23,7 @@ I am a passionate and dedicated software developer with a keen interest in build
 - **Quiz Master Application:**  
   A web-based quiz app built with HTML, CSS, and JavaScript, featuring timed quizzes across multiple categories. Includes navigation, score tracking, and a tab-switching warning. (Further scripting required for full functionality.)
 
-## 🌐 Social Links
+## 📫 Connect with Me
 
 - LinkedIn: [Manikanta-Juttuka](https://www.linkedin.com/in/manikanta-juttuka/)
 - Twitter: [Manikanta_25__](https://twitter.com/Manikanta_25__)
