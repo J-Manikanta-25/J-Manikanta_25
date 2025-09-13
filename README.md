@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohan Sai Manikanta Juttuka  
 
-🎓 **Student pursuing Master of Computer Applications (MCA) at KL University**  
+🎓 **Student pursuing Master's of Computer Applications (MCA) at KL University**  
 
 ## 🧑‍💻 About Me
 
